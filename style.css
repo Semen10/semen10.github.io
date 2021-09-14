@@ -1,0 +1,38 @@
+
+.s{
+    color: green;
+    font-style: italic;
+    font-size: 18pt;
+    }
+    h1.sas{
+        color: orange  
+    }
+    .video p{
+        font-size: 24pt;
+        color:rgb(155, 223, 194);
+    }
+    .video{
+        margin-top: 70px;
+        background-image:url("images/bg.PNG");
+        background-repeat: repeat;
+    }
+  body{
+    background-image: url("images/bg1.PNG");;
+    background-size: 100% auto;
+  }
+  span{
+    font-size: 24pt;
+    color: rgba(34, 240, 154, 0.705);
+  }
+  .otval{
+    background-image:url("images/bg.PNG");
+    background-repeat: repeat;
+    margin-top: 70px;
+  }
+  button{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background-color: rgb(70, 199, 11);
+   margin: 0 auto;
+  }
